@@ -1,0 +1,1 @@
+{"description":"Login as invalid user with invalid password|ClickDoc homepage","passed":true,"pending":false,"os":"Windows","instanceId":46172,"browser":{"name":"chrome","version":"80.0.3987.122"},"message":"Passed.","trace":"","browserLogs":[],"screenShotFile":"AllImages\\00510083-006e-003f-00da-00fb003d000c.png","timestamp":1584096056149,"duration":30965}

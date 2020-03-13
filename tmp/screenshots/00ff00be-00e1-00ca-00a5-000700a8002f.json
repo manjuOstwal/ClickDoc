@@ -1,0 +1,1 @@
+{"description":"Login as invalid user with invalid emailid|ClickDoc homepage","passed":true,"pending":false,"os":"Windows","instanceId":46172,"browser":{"name":"chrome","version":"80.0.3987.122"},"message":"Passed.","trace":"","browserLogs":[],"screenShotFile":"AllImages\\00ff00be-00e1-00ca-00a5-000700a8002f.png","timestamp":1584096087778,"duration":30799}
